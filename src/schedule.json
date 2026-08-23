@@ -1,0 +1,112 @@
+{
+  "Monday": [
+    {
+      "time": "08:00-08:50",
+      "subject": "Mathematics"
+    },
+    {
+      "time": "08:50-09:40",
+      "subject": "English"
+    },
+    {
+      "time": "09:55-10:45",
+      "subject": "Physics"
+    },
+    {
+      "time": "10:45-11:35",
+      "subject": "History"
+    },
+    {
+      "time": "12:25-13:15",
+      "subject": "Chemistry"
+    },
+    {
+      "time": "13:15-14:05",
+      "subject": "Physical Ed."
+    }
+  ],
+  "Tuesday": [
+    {
+      "time": "08:00-08:50",
+      "subject": "Biology"
+    },
+    {
+      "time": "08:50-09:40",
+      "subject": "Mathematics"
+    },
+    {
+      "time": "09:55-10:45",
+      "subject": "Computer Sci."
+    },
+    {
+      "time": "10:45-11:35",
+      "subject": "English"
+    },
+    {
+      "time": "12:25-13:15",
+      "subject": "Art"
+    },
+    {
+      "time": "13:15-14:05",
+      "subject": "Geography"
+    }
+  ],
+  "Wednesday": [
+    {
+      "time": "08:00-08:50",
+      "subject": "Mathematics"
+    },
+    {
+      "time": "08:50-09:40",
+      "subject": "Physics"
+    },
+    {
+      "time": "09:55-10:45",
+      "subject": "English"
+    },
+    {
+      "time": "10:45-11:35",
+      "subject": "Music"
+    }
+  ],
+  "Thursday": [
+    {
+      "time": "08:00-08:50",
+      "subject": "Computer Sci."
+    },
+    {
+      "time": "08:50-09:40",
+      "subject": "Biology"
+    },
+    {
+      "time": "09:55-10:45",
+      "subject": "Mathematics"
+    },
+    {
+      "time": "10:45-11:35",
+      "subject": "English"
+    },
+    {
+      "time": "12:25-13:15",
+      "subject": "Physical Ed."
+    },
+    {
+      "time": "13:15-14:05",
+      "subject": "Geography"
+    }
+  ],
+  "Friday": [
+    {
+      "time": "08:00-08:50",
+      "subject": "Chemistry"
+    },
+    {
+      "time": "08:50-09:40",
+      "subject": "History"
+    },
+    {
+      "time": "09:55-10:45",
+      "subject": "Mathematics"
+    }
+  ]
+}
