@@ -1,29 +1,24 @@
-const { cache } = require("react");
-
-// This is needed for app.js to load cache
 const CACHE_NAME = "timetable-cache-v1";
 
 const ASSETS = [
   "./",
   "./index.html",
-  "./style.css",
+  "./styles.css",
   "./app.js",
   "./manifest.json",
   "./schedule.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
   "./icons/icon-maskable-512.png",
-]
+];
 
-// This is what happens when caching
 self.addEventListener("install", (event) => {
     event.waitUntil(
-        caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSESTS))
+        caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS))
     );
     self.skipWaiting();
 });
 
-// This is what happens instead when overwriting or writing cache
 self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches.keys().then((keys) =>
@@ -33,7 +28,6 @@ self.addEventListener("activate", (event) => {
   self.clients.claim();
 });
 
-// Cache-first, falling back to network, so the app opens instantly offline
 self.addEventListener("fetch", (event) => {
     if (event.request.method !== "GET") return;
     event.respondWith(
@@ -43,6 +37,7 @@ self.addEventListener("fetch", (event) => {
             .then((response) => {
                 const copy = response.clone();
                 caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+                return response;
             })
             .catch(() => cached);
         })
