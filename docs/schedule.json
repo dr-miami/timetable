@@ -1,108 +1,37 @@
 {
   "Monday": [
-    {
-      "time": "08:00-09:00",
-      "subject": "Mathematics"
-    },
-    {
-      "time": "09:00-10:00",
-      "subject": "English"
-    },
-    {
-      "time": "10:00-11:00",
-      "subject": "Physics"
-    },
-    {
-      "time": "11:00-12:00",
-      "subject": "History"
-    },
-    {
-      "time": "12:00-13:00",
-      "subject": "Chemistry"
-    },
-    {
-      "time": "13:00-14:00",
-      "subject": "Physical Ed."
-    }
+    { "time": "08:00-09:00", "subject": "Fucile" },
+    { "time": "09:00-10:00", "subject": "Informatica" },
+    { "time": "10:00-11:00", "subject": "Lepore" },
+    { "time": "11:00-12:00", "subject": "Liberatore" },
+    { "time": "12:00-13:00", "subject": "Liberatore" }
   ],
   "Tuesday": [
-    {
-      "time": "08:00-09:00",
-      "subject": "Biology"
-    },
-    {
-      "time": "09:00-10:00",
-      "subject": "Mathematics"
-    },
-    {
-      "time": "10:00-11:00",
-      "subject": "Computer Sci."
-    },
-    {
-      "time": "11:00-12:00",
-      "subject": "English"
-    },
-    {
-      "time": "12:00-13:00",
-      "subject": "Art"
-    },
-    {
-      "time": "13:00-14:00",
-      "subject": "Geography"
-    }
+    { "time": "08:00-09:00", "subject": "Monacelli" },
+    { "time": "09:00-10:00", "subject": "Lepore" },
+    { "time": "10:00-11:00", "subject": "Falanga" },
+    { "time": "11:00-12:00", "subject": "Liberatore" },
+    { "time": "12:00-13:00", "subject": "Fucile" }
   ],
   "Wednesday": [
-    {
-      "time": "08:00-09:00",
-      "subject": "Telecomunicazioni"
-    },
-    {
-      "time": "09:00-10:00",
-      "subject": "Romano"
-    },
-    {
-      "time": "10:00-11:00",
-      "subject": "Notaro"
-    },
-    {
-      "time": "11:00-12:00",
-      "subject": "Informatica"
-    }
+    { "time": "08:00-09:00", "subject": "Fucile" },
+    { "time": "09:00-10:00", "subject": "Romano" },
+    { "time": "10:00-11:00", "subject": "Informatica" },
+    { "time": "11:00-12:00", "subject": "Monacelli" },
+    { "time": "12:00-13:00", "subject": "De Falco" }
   ],
   "Thursday": [
-    {
-      "time": "08:00-09:00",
-      "subject": "X"
-    },
-    {
-      "time": "09:00-10:00",
-      "subject": "Inglese"
-    },
-    {
-      "time": "10:00-11:00",
-      "subject": "Matematica"
-    },
-    {
-      "time": "11:00-12:00",
-      "subject": "Informatica"
-    }
+    { "time": "08:00-09:00", "subject": "Liberatore" },
+    { "time": "09:00-10:00", "subject": "De Falco" },
+    { "time": "10:00-11:00", "subject": "Lepore" },
+    { "time": "11:00-12:00", "subject": "Monacelli" },
+    { "time": "12:00-13:00", "subject": "Monacelli" }
   ],
   "Friday": [
-    {
-      "time": "08:00-09:00",
-      "subject": "Matematica"
-    },
-    {
-      "time": "09:00-10:00",
-      "subject": "Informatica"
-    },
-    {
-      "time": "10:00-11:00",
-      "subject": "Inglese"
-    },
-    {
-      "time": "11:00-12:00",
-      "subject": "X"
-    }
+    { "time": "08:00-09:00", "subject": "Lepore" },
+    { "time": "09:00-10:00", "subject": "Monacelli" },
+    { "time": "10:00-11:00", "subject": "De Falco" },
+    { "time": "11:00-12:00", "subject": "Liberatore" },
+    { "time": "12:00-13:00", "subject": "Liberatore" }
   ]
 }
