@@ -1,37 +1,44 @@
 {
   "Monday": [
-    { "time": "08:00-09:00", "subject": "Fucile" },
-    { "time": "09:00-10:00", "subject": "Informatica" },
-    { "time": "10:00-11:00", "subject": "Lepore" },
+    { "time": "08:00-09:00", "subject": "Monacelli" },
+    { "time": "09:00-10:00", "subject": "Monacelli" },
+    { "time": "10:00-11:00", "subject": "Liberatore" },
     { "time": "11:00-12:00", "subject": "Liberatore" },
-    { "time": "12:00-13:00", "subject": "Liberatore" }
+    { "time": "12:00-13:00", "subject": "Notaro" },
+    { "time": "13:00-14:00", "subject": "Notaro" },
+    { "time": "14:00-15:00", "subject": "Fucile" }
   ],
   "Tuesday": [
-    { "time": "08:00-09:00", "subject": "Monacelli" },
-    { "time": "09:00-10:00", "subject": "Lepore" },
-    { "time": "10:00-11:00", "subject": "Falanga" },
+    { "time": "08:00-09:00", "subject": "Falanga" },
+    { "time": "09:00-10:00", "subject": "Barone" },
+    { "time": "10:00-11:00", "subject": "Monacelli" },
     { "time": "11:00-12:00", "subject": "Liberatore" },
-    { "time": "12:00-13:00", "subject": "Fucile" }
+    { "time": "12:00-13:00", "subject": "De Falco" },
+    { "time": "13:00-14:00", "subject": "Romano" }
   ],
   "Wednesday": [
-    { "time": "08:00-09:00", "subject": "Fucile" },
-    { "time": "09:00-10:00", "subject": "Romano" },
-    { "time": "10:00-11:00", "subject": "Informatica" },
-    { "time": "11:00-12:00", "subject": "Monacelli" },
-    { "time": "12:00-13:00", "subject": "De Falco" }
+    { "time": "08:00-09:00", "subject": "Lepore" },
+    { "time": "09:00-10:00", "subject": "Lepore" },
+    { "time": "10:00-11:00", "subject": "Sarnataro" },
+    { "time": "11:00-12:00", "subject": "Sarnataro" },
+    { "time": "12:00-13:00", "subject": "Falanga" },
+    { "time": "13:00-14:00", "subject": "Monacelli" },
+    { "time": "14:00-15:00", "subject": "Monacelli" }
   ],
   "Thursday": [
     { "time": "08:00-09:00", "subject": "Liberatore" },
-    { "time": "09:00-10:00", "subject": "De Falco" },
-    { "time": "10:00-11:00", "subject": "Lepore" },
-    { "time": "11:00-12:00", "subject": "Monacelli" },
-    { "time": "12:00-13:00", "subject": "Monacelli" }
+    { "time": "09:00-10:00", "subject": "Liberatore" },
+    { "time": "10:00-11:00", "subject": "De Falco" },
+    { "time": "11:00-12:00", "subject": "De Falco" },
+    { "time": "12:00-13:00", "subject": "Romano" },
+    { "time": "13:00-14:00", "subject": "Romano" }
   ],
   "Friday": [
-    { "time": "08:00-09:00", "subject": "Lepore" },
-    { "time": "09:00-10:00", "subject": "Monacelli" },
-    { "time": "10:00-11:00", "subject": "De Falco" },
-    { "time": "11:00-12:00", "subject": "Liberatore" },
-    { "time": "12:00-13:00", "subject": "Liberatore" }
+    { "time": "08:00-09:00", "subject": "Notaro" },
+    { "time": "09:00-10:00", "subject": "Notaro" },
+    { "time": "10:00-11:00", "subject": "Liberatore" },
+    { "time": "11:00-12:00", "subject": "Lepore" },
+    { "time": "12:00-13:00", "subject": "Lepore" },
+    { "time": "13:00-14:00", "subject": "Monacelli" }
   ]
 }
